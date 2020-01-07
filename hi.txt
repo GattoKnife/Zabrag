@@ -1,2 +1,4 @@
 Hello, World
 Second line
+One more line check diff command
+Commit with comment
