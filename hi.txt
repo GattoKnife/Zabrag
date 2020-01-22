@@ -6,3 +6,4 @@ Status cashed
 trying gitgui
 goodbye
 Try this
+Hello, git
