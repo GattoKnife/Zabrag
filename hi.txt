@@ -8,3 +8,4 @@ goodbye
 Try this
 Hello, git
 Hello git once again!
+Jan 22 learning merges
