@@ -7,3 +7,4 @@ trying gitgui
 goodbye
 Try this
 Hello, git
+Hello git once again!
