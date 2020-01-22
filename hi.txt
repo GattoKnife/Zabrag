@@ -1,12 +1,2 @@
-Hello, World
-Second line
-One more line check diff command
-Commit with comment
-Status cashed
-trying gitgui
-goodbye
-Try this
-Hello, git
-Hello git once again!
-Jan 22 learning merges
-Learning REBASE
+CHERRY PICK LICK LICK LICK
+still conflict test
